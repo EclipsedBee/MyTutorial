@@ -1,0 +1,15 @@
+BeeEditNewFile；
+2020/09/11；
+今天目标是
+1，将近日的笔记进行整理
+CMake，OpenCasCade，Qt等笔记，他们有区别，
+基本是，OpenCasCade是一个库，而Qt也是个库，但Qt有个独立的界面，CMake不是库，是个项目组织器；
+那么先后的话做一个整理，将CMake与VS组合为一套用以自己开发，
+将CMake与Qt组合一套用以开源跨平台开发；
+将OpenCasCade先下载好，然后随时配置到VS或者Qt上，一般是配置到Qt上；
+将OCC与OpenGL放一起，都是库，之后只是配置问题，小问题而已，主要是一个库可以在好多项目下配置使用；
+比如Windows系统库，随便哪个IDE都可以编辑；
+OpenGL,OCC,DX;
+CMake,Qt,FreeCAD；
+按上面的为最终顺序；
+EditNewFileBee；
